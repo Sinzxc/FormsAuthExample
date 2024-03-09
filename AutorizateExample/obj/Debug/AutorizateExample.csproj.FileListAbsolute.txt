@@ -1,0 +1,17 @@
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\AutorizateExample.exe.config
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\AutorizateExample.exe
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\AutorizateExample.pdb
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\EntityFramework.dll
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\EntityFramework.xml
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.csproj.AssemblyReference.cache
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.Form1.resources
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.Properties.Resources.resources
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.csproj.GenerateResource.cache
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.csproj.CoreCompileInputs.cache
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.csproj.CopyComplete
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.exe
+C:\Users\nikor\OneDrive\Рабочий стол\AutorizateExample\AutorizateExample\obj\Debug\AutorizateExample.pdb
